@@ -2,10 +2,10 @@
 
 ## Static Generated Progressive grocery app that helps mom
 
-![Home Page 1](https://github.com/ikhwanh/melonku/blob/master/screenshots/sc0.jpg?raw=true)
-![Home Page 2](https://github.com/ikhwanh/melonku/blob/master/screenshots/sc3.jpg?raw=true)
-![Admin 1](https://github.com/ikhwanh/melonku/blob/master/screenshots/sc1.jpg?raw=true)
-![Admin 2](https://github.com/ikhwanh/melonku/blob/master/screenshots/sc2.jpg?raw=true)
+![Home Page 1](https://github.com/ikhwanh/melonku/tree/master/screenshots/sc0.jpg?raw=true)
+![Home Page 2](https://github.com/ikhwanh/melonku/tree/master/screenshots/sc3.jpg?raw=true)
+![Admin 1](https://github.com/ikhwanh/melonku/tree/master/screenshots/sc1.jpg?raw=true)
+![Admin 2](https://github.com/ikhwanh/melonku/tree/master/screenshots/sc2.jpg?raw=true)
 
 
 ## Quick start
