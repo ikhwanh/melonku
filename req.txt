@@ -1,0 +1,10 @@
+skenario:
+1. user login google
+2. order tabung gas
+
+pengecualian:
+2a. gas habis
+
+skenario:
+1. melihat stok gas
+2. 
